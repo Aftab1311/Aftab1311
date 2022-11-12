@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-##AFTAB AHMED
+# AFTAB AHMED
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Blockchain Development
 - 👯 I’m looking to collaborate on MERN Projects.
